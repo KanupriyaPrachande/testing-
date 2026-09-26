@@ -1,0 +1,27 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanupriyaPrachande/testing-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KanupriyaPrachande/testing-/issues"
+  },
+  "homepage": "https://github.com/KanupriyaPrachande/testing-#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
